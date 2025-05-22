@@ -35,7 +35,6 @@ I also used this project to:
 - Console Application
 
 ---
----
 
 I am aware there is room for improvement in both structure and validation, but for now I am keeping it as-is — the app works, and done is better than perfect.
 
